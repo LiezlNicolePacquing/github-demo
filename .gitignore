@@ -1,0 +1,4 @@
+/*Ignore Files Instruction!
+Specific File: MyFile.ext
+File Pattern: *ext.
+Folder: my-folder/*/

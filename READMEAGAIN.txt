@@ -20,5 +20,7 @@ Please fork this repository and then Pull Requests for review.
 no peace will be acheived (rebasing example)
 another change what a bother
 
+Will this lecture end??? lesson 64
+
 2021. Git Training
 /*# - level of heading*/

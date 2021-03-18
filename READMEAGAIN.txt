@@ -17,5 +17,7 @@ This is a simple web project, deployment can be on any web server or even local 
 
 Please fork this repository and then Pull Requests for review.
 
+no peace will be acheived (rebasing example)
+
 2021. Git Training
 /*# - level of heading*/

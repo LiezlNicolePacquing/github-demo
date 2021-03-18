@@ -24,5 +24,7 @@ Will this lecture end??? lesson 64
 
 lesson 65 stashing
 
+lesson 67 bruv
+
 2021. Git Training
 /*# - level of heading*/

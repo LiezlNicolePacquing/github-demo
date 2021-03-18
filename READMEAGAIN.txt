@@ -22,5 +22,7 @@ another change what a bother
 
 Will this lecture end??? lesson 64
 
+lesson 65 stashing
+
 2021. Git Training
 /*# - level of heading*/
